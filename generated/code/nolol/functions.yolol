@@ -1,0 +1,2 @@
+a++ :timeok=a :absok=abs -5==abs 5
+a++ if abs -2==abs 2 then :absinifok=1 end :sqrtok=sqrt 16==4

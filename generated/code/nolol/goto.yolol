@@ -1,0 +1,6 @@
+:out="a" goto 3
+:out+="c" goto 4
+:out+="b" goto 2
+:out+="d" goto 5 if not 0 then goto 6 end
+:out+="e" goto 6
+:out+="f" goto 7 :out="skip this"
